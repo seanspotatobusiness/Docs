@@ -7,73 +7,76 @@
 
 
 ## Windows
-	none
+		accept
+	altgr
+	apps
+	attn
 	a-z
+	back backspace backdelete
+	browser_back
+	browser_favorites
+	browser_forward
+	browser_home
+	browser_refresh
+	browser_search
+	browser_stop
+	capital capslock
+	clear
+	control ctrl
+	convert
+	crsel
+	delete forwarddelete
 	digit0-digit9
-	num0-num9
-	keypadmultiply kpmultiply numpadmultiply nummultiply
-	keypadsubtract kpsubtract numpadsubtract numsubtract
+	down
+	end
+	ereof
+	escape esc
+	execute
+	exsel
+	f1-f24
+	final
+	hangeul
+	hangul
+	hanja
+	help
+	home
+	insert
+	junja
+	kana
+	kanji
 	keypadadd kpadd numpadadd numadd
 	keypaddecimal kpdecimal numpaddecimal numdecimal
 	keypaddivide kpdivide numpaddivide numdivide
+	keypadmultiply kpmultiply numpadmultiply nummultiply
 	keypadseparator kpseparator numpadseparator numseparator
-	left
-	up
-	right
-	down
-	prior pageup pgup
-	next pagedown pgdown
-	home
-	end
-	tab
-	space blank
-	return enter
-	capital capslock
-	escape esc
-	back backspace backdelete
-	help
-	numlock num
-	scrolllock scroll
-	zoom
-	select
-	snapshot print
-	sleep
-	delete forwarddelete
-	insert
-	menu
-	pause
-	f1-f24
-	shift
-	leftshift lshift
-	rightshift rshift
-	control ctrl
-	leftctrl leftctrl
+	keypadsubtract kpsubtract numpadsubtract numsubtract
+	launch_app1
+	launch_app2
+	launch_mail
+	launch_media_select
 	lcontrol lctrl
-	rightcontrol rightctrl
-	rcontrol rctrl
-	menu alt option
+	left
+	leftctrl leftctrl
 	leftmenu leftalt leftoption
-	lmenu lalt loption
-	altgr
-	rightmenu rightalt rightoption
-	rmenu ralt roption
-	windows win meta command cmd
+	leftshift lshift
 	leftwindows leftwin leftmeta leftcommand leftcmd
+	lmenu lalt loption
 	lwindows lwin lmeta lcommand lcmd
-	rightwindows rightwin rightmeta rightcommand rightcmd
-	rwindows rwin rmeta rcommand rcmd
-	volumemute mute
-	volumedown
-	volumeup
 	medianext
+	mediaplaypause
 	mediaprevious
 	mediastop
-	mediaplaypause
+	menu
+	menu alt option
+	modechange
+	next pagedown pgdown
+	noname
+	nonconvert
+	none
+	num0-num9
+	numlock num
 	oem_1
-	oem_plus
-	oem_comma
-	oem_minus
-	oem_period
+	oem_102
 	oem_2
 	oem_3
 	oem_4
@@ -81,42 +84,39 @@
 	oem_6
 	oem_7
 	oem_8
-	oem_102
 	oem_clear
-	clear
-	kana
-	hangeul
-	hangul
-	junja
-	final
-	hanja
-	kanji
-	convert
-	nonconvert
-	accept
-	modechange
-	execute
-	apps
-	browser_back
-	browser_forward
-	browser_refresh
-	browser_stop
-	browser_search
-	browser_favorites
-	browser_home
-	launch_mail
-	launch_media_select
-	launch_app1
-	launch_app2
-	processkey
-	packet
-	attn
-	crsel
-	exsel
-	ereof
-	play
-	noname
+	oem_comma
+	oem_minus
+	oem_period
+	oem_plus
 	pa1
+	packet
+	pause
+	play
+	prior pageup pgup
+	processkey
+	rcontrol rctrl
+	return enter
+	right
+	rightcontrol rightctrl
+	rightmenu rightalt rightoption
+	rightshift rshift
+	rightwindows rightwin rightmeta rightcommand rightcmd
+	rmenu ralt roption
+	rwindows rwin rmeta rcommand rcmd
+	scrolllock scroll
+	select
+	shift
+	sleep
+	snapshot print
+	space blank
+	tab
+	up
+	volumedown
+	volumemute mute
+	volumeup
+	windows win meta command cmd
+	zoom
 
 
 ## Mac
@@ -251,6 +251,7 @@
 	slash
 	period
 	grave
+
 
 
 ## Linux
